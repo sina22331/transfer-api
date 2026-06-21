@@ -337,6 +337,7 @@ curl https://<your-worker>.workers.dev/v1/setup \
 
 ## Manual deploy with Wrangler
 
+
 You can also deploy from your local machine:
 
 ```powershell
